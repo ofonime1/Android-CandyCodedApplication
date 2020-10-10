@@ -43,8 +43,6 @@
         android:layout_height="30dp"
         android:layout_marginLeft="0dp"
         android:layout_marginRight="8dp"
-        android:clickable="true"
-        android:onClick="createPhoneIntent"
         android:layout_marginTop="16dp"
         android:gravity="center_vertical"
         android:text="(012)345-6789"
@@ -53,6 +51,8 @@
         app:layout_constraintLeft_toLeftOf="@+id/text_view_address"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/image_view_map" />
+        android:clickable="true"
+        android:onClick="createPhoneIntent"
 
     <TextView
         android:id="@+id/text_view_hours"

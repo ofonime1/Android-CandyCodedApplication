@@ -160,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602342925376</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=" Task 3">
+      <created>1602344761267</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602344761267</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -175,17 +182,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1602272245239" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1602344425194">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1602360455533">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602344425194" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602342945716">
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602360455533" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602344792034">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602342945716" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1602335942821">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602344792034" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1602360079935">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1602335942821" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1602360079935" />
   </component>
 </project>

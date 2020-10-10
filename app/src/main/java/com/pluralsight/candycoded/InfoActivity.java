@@ -34,7 +34,7 @@ public class InfoActivity extends AppCompatActivity {
             startActivity(mapIntent);
         }
         }
-    
+
 
     // ***
     // TODO - Task 3 - Launch the Phone Activity

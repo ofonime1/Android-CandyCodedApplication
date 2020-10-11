@@ -9,8 +9,9 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment=" Task 3 new">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +61,7 @@
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
-  <component name="RunManager" selected="Android JUnit.All in app">
+  <component name="RunManager" selected="Android JUnit.com.pluralsight.candycoded in app">
     <configuration name="All in app" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <option name="PACKAGE_NAME" value="" />
@@ -72,6 +73,21 @@
     </configuration>
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.pluralsight.candycoded in app" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.candycoded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
+      <option name="TEST_OBJECT" value="package" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
@@ -130,6 +146,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit.com.pluralsight.candycoded in app" />
         <item itemvalue="Android JUnit.All in app" />
       </list>
     </recent_temporary>
@@ -194,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602366372268</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary=" Task 3">
+      <created>1602367052372</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1602367052372</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -202,7 +226,8 @@
     <MESSAGE value="Task 2" />
     <MESSAGE value=" Task 2 layout" />
     <MESSAGE value=" Task 3" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Task 3" />
+    <MESSAGE value=" Task 3 new" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Task 3 new" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="22" key="#XML" timestamp="1602361351057">
@@ -213,21 +238,37 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1602272245239" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1602366367076">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1602430272050">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602366367076" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602366384759">
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602430272050" />
+    <state width="643" height="121" key="GridCell.Tab.0.bottom" timestamp="1602367355756">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602366384759" />
+    <state width="643" height="121" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602367355756" />
+    <state width="643" height="121" key="GridCell.Tab.0.center" timestamp="1602367355754">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="643" height="121" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602367355754" />
+    <state width="643" height="121" key="GridCell.Tab.0.left" timestamp="1602367355752">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="643" height="121" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602367355752" />
+    <state width="643" height="121" key="GridCell.Tab.0.right" timestamp="1602367355755">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="643" height="121" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602367355755" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602367241720">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602367241720" />
     <state x="110" y="120" width="1146" height="488" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1602365640342">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="110" y="120" width="1146" height="488" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1366.728@0.0.1366.728" timestamp="1602365640342" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1602360079935">
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1602428411246">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1602360079935" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1602428411246" />
   </component>
 </project>
